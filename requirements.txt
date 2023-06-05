@@ -1,0 +1,9 @@
+ipykernel
+flask
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+requests
+openpyxl

@@ -1,0 +1,11 @@
+1. Name of Earth Meteorite - string 
+2. id - ID of Earth Meteorite - int 
+3. nametype - string 
+4. recclass - string
+5. mass - Mass of Earth Meteorite - float 
+6. year - Year at which Earth Meteorite was hit - datetime format 
+7. reclat - float 
+8. recclong - float
+9. point coordinates - list of int
+
+reclat	reclong	geolocation	point coordinates
