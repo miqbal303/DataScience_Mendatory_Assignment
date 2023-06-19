@@ -1,3 +1,6 @@
+*********************************************************************************************************
+Q4 Output_Attribute
+
 1. Name of Earth Meteorite - string 
 2. id - ID of Earth Meteorite - int 
 3. nametype - string 
@@ -9,3 +12,21 @@
 9. point coordinates - list of int
 
 reclat	reclong	geolocation	point coordinates
+
+
+*********************************************************************************************************
+Q5 Output_Attribute
+
+1. id - int 
+2. url - string
+3. name - string 
+4. season- int 
+5. number - int
+6. type - string 
+7. airdate -date format 
+8. airtime -12-hour time format
+9. runtime - float
+10. average rating - float
+11. summary - string without html tags
+12. medium image link - string
+13. Original image link - string
